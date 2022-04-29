@@ -5,7 +5,7 @@ from numpy import asarray
 
 # load the image and convert into
 # numpy array
-img = Image.open('308399.jpeg')
+img = Image.open('kos.jpg')
 numpydata = asarray(img)
 
 # data
